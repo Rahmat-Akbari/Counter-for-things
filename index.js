@@ -1,6 +1,7 @@
 //let resetEl = document.getElementById("reset-el")
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
+//let totalEl = document.getElementById("total-el")
 let count = 0
 
 function increment() {
@@ -19,5 +20,5 @@ function reset() {
     let countStr = count
     countEl.textContent = 0
     count = 0
-    saveEl.textContent ="Previous entries:"
+    saveEl.textContent ="Previous entries: "
 }
