@@ -1,7 +1,6 @@
-//let resetEl = document.getElementById("reset-el")
+
 let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
-//let totalEl = document.getElementById("total-el")
 let count = 0
 
 function increment() {
