@@ -63,8 +63,12 @@ button:active {
 #reset-btn {
     background: darkorchid;
 }
-#total-btn {
+#sum-btn {
     background: black;
+}
+#decrement-btn {
+background-color: aqua;
+
 }
 
 div {
